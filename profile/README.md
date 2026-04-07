@@ -19,6 +19,7 @@ We provide ready-to-use parsers for a growing list of platforms across e-commerc
 | Platform | Description |
 |----------|-------------|
 | [Amazon](https://amazon.com) | Products, reviews, pricing, seller data |
+| [Mediamarkt](https://amazon.com) | [Mediamarkt parser](https://github.com/2parser/mediamarkt-parser) |
 | [Etsy](https://etsy.com) | Handmade & vintage listings, shop data |
 | [Tokopedia](https://tokopedia.com) | Indonesian e-commerce product data |
 | [Catawiki](https://catawiki.com) | Auction listings and lot details |
@@ -27,7 +28,7 @@ We provide ready-to-use parsers for a growing list of platforms across e-commerc
 ### 🏠 Real Estate & Classifieds
 | Platform | Description |
 |----------|-------------|
-| [Craigslist](https://craigslist.org) | Classifieds: housing, jobs, for sale, services |
+| [Craigslist](https://craigslist.org) | [Craiglist parser](https://github.com/2parser/craiglist-parser)  |
 | [Dubizzle](https://dubizzle.com) | Middle East classifieds — property & vehicles |
 | [VRBO](https://vrbo.com) | Vacation rental listings and pricing |
 
