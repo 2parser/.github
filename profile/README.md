@@ -22,7 +22,7 @@ We provide ready-to-use scrapers for a growing list of platforms across e-commer
 | [Mediamarkt](http://mediamarkt.com) | [Mediamarkt scraper](https://github.com/2scraper/mediamarkt-scraper) |
 | [Etsy](https://etsy.com) | [Etsy scraper](https://github.com/2scraper/etsy-scraper) |
 | [Tokopedia](https://tokopedia.com) | [Tokopedia scraper](https://github.com/2scraper/tokopedia-scraper) |
-| [Catawiki](https://catawiki.com) | Auction listings and lot details |
+| [Catawiki](https://catawiki.com) | [Catewiki scraper](https://github.com/2scraper/catawiki-scraper) |
 | [Spinny](https://spinny.com) | Used car listings and vehicle data |
 
 ### 🏠 Real Estate & Classifieds
