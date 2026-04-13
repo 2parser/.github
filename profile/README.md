@@ -19,7 +19,7 @@ We provide ready-to-use scrapers for a growing list of platforms across e-commer
 | Platform | Link | Description |
 |----------|-------------|-------------|
 | [Amazon](https://amazon.com) |  | Products, reviews, pricing, seller data |
-| [Mediamarkt](http://mediamarkt.com) | [Mediamarkt scraper](https://github.com/2scraper/mediamarkt-scraper) |  |
+| [Mediamarkt](http://mediamarkt.com) | [Mediamarkt scraper](https://github.com/2scraper/mediamarkt-scraper) | Leading platform for consumer electronics  |
 | [Etsy](https://etsy.com) | [Etsy scraper](https://github.com/2scraper/etsy-scraper) | Handmade & vintage listings, shop data |
 | [Tokopedia](https://tokopedia.com) | [Tokopedia scraper](https://github.com/2scraper/tokopedia-scraper) | Indonesian e-commerce product data |
 | [Catawiki](https://catawiki.com) | [Catewiki scraper](https://github.com/2scraper/catawiki-scraper) | Auction listings and lot details |
