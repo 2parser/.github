@@ -33,8 +33,8 @@ We provide ready-to-use scrapers for a growing list of platforms across e-commer
 | [VRBO](https://vrbo.com) | [VRBO scraper](https://github.com/2scraper/vrbo-scraper) | Vacation rental listings and pricing |
 
 ### 🍔 Food & Delivery
-| Platform | Description |
-|----------|-------------|
+| Platform | Link | Description |
+|----------|-------------|-------------|
 | [Foodpanda](https://foodpanda.com) | [Foodpanda scraper](https://github.com/2scraper/foodpanda-scraper) | Restaurant menus, delivery info & ratings |
 
 ### 💬 Community & Knowledge
