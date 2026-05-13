@@ -38,9 +38,9 @@ We provide ready-to-use scrapers for a growing list of platforms across e-commer
 | [Foodpanda](https://foodpanda.com) | [Foodpanda scraper](https://github.com/2scraper/foodpanda-scraper) | Restaurant menus, delivery info & ratings |
 
 ### 💬 Community & Knowledge
-| Platform | Description |
-|----------|-------------|
-| [Quora](https://quora.com) | Questions, answers, and topic data |
+| Platform | Link | Description |
+|----------|-------------|-------------|
+| [Quora](https://quora.com) | [Quora scraper](https://github.com/2scraper/quora-scraper)  | Questions, answers, and topic data |
 | [Medium](https://medium.com) | Articles, authors, publication metadata |
 | [BBB](https://bbb.org) | Business ratings, reviews & accreditation data |
 
